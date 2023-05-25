@@ -404,3 +404,40 @@ th {
 .event-details p {
     margin-bottom: 20px;
 }
+
+.mentor {
+    margin-bottom: 50px;
+}
+
+.mentor h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.mentor-card {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.mentor-image {
+    width: 200px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.mentor-image img {
+    width: 100%;
+}
+
+.mentor-details {
+    width: 60%;
+}
+
+.mentor-details h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.mentor-details p {
+    margin-bottom: 10px;
+}
